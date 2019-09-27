@@ -1,0 +1,10 @@
+.navbar-dark .navbar-brand{
+    color: red;
+}
+.navbar-dark .navbar-nav .nav-link.active{
+    color: blue;
+}
+
+#custom-navbar-color{
+    color: blue;
+}
